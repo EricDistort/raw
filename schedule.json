@@ -1,7 +1,20 @@
-[
-  {
-    "startTime": "21:38",
-    "duration": 20,
-    "url": "https://drive.google.com/uc?export=download&id=1xkdcNOPFOlivADzonmfR-vVs7TPJwqCU"
-  }
-]
+{
+  "channelName": "My TV Channel",
+  "schedule": [
+    {
+      "id": 1,
+      "title": "Morning Show",
+      "videoUrl": "https://drive.google.com/uc?export=download&id=1xkdcNOPFOlivADzonmfR-vVs7TPJwqCU",
+      "startTime": "08:00",
+      "endTime": "10:00"
+    },
+    {
+      "id": 2,
+      "title": "Afternoon Movie",
+      "videoUrl": "https://drive.google.com/uc?export=download&id=1xkdcNOPFOlivADzonmfR-vVs7TPJwqCU",
+      "startTime": "12:00",
+      "endTime": "14:00"
+    }
+  ],
+  "fallbackVideo": "https://drive.google.com/uc?export=download&id=DEFAULT_DRIVE_FILE_ID"
+}
