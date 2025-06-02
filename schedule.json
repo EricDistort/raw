@@ -1,20 +1,12 @@
-{
-  "channelName": "My TV Channel",
-  "schedule": [
-    {
-      "id": 1,
-      "title": "Morning Show",
-      "videoUrl": "https://drive.google.com/uc?export=download&id=1xkdcNOPFOlivADzonmfR-vVs7TPJwqCU",
-      "startTime": "20:56",
-      "endTime": "20:58"
-    },
-    {
-      "id": 2,
-      "title": "Afternoon Movie",
-      "videoUrl": "https://drive.google.com/uc?export=download&id=1xkdcNOPFOlivADzonmfR-vVs7TPJwqCU",
-      "startTime": "12:00",
-      "endTime": "14:00"
-    }
-  ],
-  "fallbackVideo": "https://drive.google.com/uc?export=download&id=1xkdcNOPFOlivADzonmfR-vVs7TPJwqCU"
-}
+[
+  {
+    "startTime": "14:48",
+    "duration": 20,
+    "url": "https://raw.githubusercontent.com/EricDistort/raw/main/Black%20Sand%20Logo%20Reveal_free%20(online-video-cutter.com).mp4"
+  },
+  {
+    "startTime": "23:00",
+    "duration": 90,
+    "url": "https://raw.githubusercontent.com/EricDistort/raw/main/Black%20Sand%20Logo%20Reveal_free%20(online-video-cutter.com).mp4"
+  }
+]
