@@ -1,47 +1,47 @@
 [
   {
     "id": 1,
-    "name": "October",
-    "cast": "Varun Dhawan, Kriti Sanon",
-    "time": "9.15 PM",
-    "poster": "https://collider.com/wp-content/uploads/the-avengers-movie-poster-banners-04.jpg"
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "time": "12.00 PM",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
   },
   {
     "id": 2,
-    "name": "Chhichhore",
-    "cast": "Sushant Singh, Shraddha Kapoor",
-    "time": "6.00 PM",
-    "poster": "https://collider.com/wp-content/uploads/the-avengers-movie-poster-banners-04.jpg"
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "time": "3.00 PM",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
   },
    {
     "id": 3,
-    "name": "Chhichhore",
-    "cast": "Sushant Singh, Shraddha Kapoor",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
     "time": "6.00 PM",
-    "poster": "https://collider.com/wp-content/uploads/the-avengers-movie-poster-banners-04.jpg"
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
   },
 
    {
     "id": 4,
-    "name": "Chhichhore",
-    "cast": "Sushant Singh, Shraddha Kapoor",
-    "time": "6.00 PM",
-    "poster": "https://collider.com/wp-content/uploads/the-avengers-movie-poster-banners-04.jpg"
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "time": "9.00 PM",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
   },
 
    {
     "id": 5,
-    "name": "Chhichhore",
-    "cast": "Sushant Singh, Shraddha Kapoor",
-    "time": "6.00 PM",
-    "poster": "https://collider.com/wp-content/uploads/the-avengers-movie-poster-banners-04.jpg"
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "time": "12.00 AM",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
   },
 
    {
     "id": 6,
-    "name": "Chhichhore",
-    "cast": "Sushant Singh, Shraddha Kapoor",
-    "time": "6.00 PM",
-    "poster": "https://collider.com/wp-content/uploads/the-avengers-movie-poster-banners-04.jpg"
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "time": "3.00 AM",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
   }
 ]
