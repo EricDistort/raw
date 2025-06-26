@@ -1,4 +1,5 @@
-[
+{
+  "sunday": [
   {
     "id": 1,
     "time": "12.00 PM",
@@ -65,4 +66,424 @@
     "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
      
   }
-]
+  ],
+
+
+  
+  "monday": [
+    {
+    "id": 1,
+    "time": "12.00 PM",
+    "startTime": "12:00",
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
+    
+  },
+  {
+    "id": 2,
+    "time": "3.00 PM",
+    "startTime": "15:00",
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "duration": 151,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
+    
+  },
+  {
+    "id": 3,
+    "time": "6.00 PM",
+    "startTime": "18:00",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
+    "duration": 128,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
+    
+  },
+  {
+    "id": 4,
+    "time": "9.00 PM",
+    "startTime": "21:00",
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "duration": 121,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
+    
+  },
+  {
+    "id": 5,
+    "time": "12.00 AM",
+    "startTime": "00:00",
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
+   
+  },
+  {
+    "id": 6,
+    "time": "3.00 AM",
+    "startTime": "03:00",
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "duration": 152,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
+     
+  }
+  ],
+
+
+  "tuesday": [
+    {
+    "id": 1,
+    "time": "12.00 PM",
+    "startTime": "12:00",
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
+    
+  },
+  {
+    "id": 2,
+    "time": "3.00 PM",
+    "startTime": "15:00",
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "duration": 151,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
+    
+  },
+  {
+    "id": 3,
+    "time": "6.00 PM",
+    "startTime": "18:00",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
+    "duration": 128,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
+    
+  },
+  {
+    "id": 4,
+    "time": "9.00 PM",
+    "startTime": "21:00",
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "duration": 121,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
+    
+  },
+  {
+    "id": 5,
+    "time": "12.00 AM",
+    "startTime": "00:00",
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
+   
+  },
+  {
+    "id": 6,
+    "time": "3.00 AM",
+    "startTime": "03:00",
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "duration": 152,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
+     
+  }
+  ],
+
+
+  "wednesday": [
+    {
+    "id": 1,
+    "time": "12.00 PM",
+    "startTime": "12:00",
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
+    
+  },
+  {
+    "id": 2,
+    "time": "3.00 PM",
+    "startTime": "15:00",
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "duration": 151,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
+    
+  },
+  {
+    "id": 3,
+    "time": "6.00 PM",
+    "startTime": "18:00",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
+    "duration": 128,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
+    
+  },
+  {
+    "id": 4,
+    "time": "9.00 PM",
+    "startTime": "21:00",
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "duration": 121,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
+    
+  },
+  {
+    "id": 5,
+    "time": "12.00 AM",
+    "startTime": "00:00",
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
+   
+  },
+  {
+    "id": 6,
+    "time": "3.00 AM",
+    "startTime": "03:00",
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "duration": 152,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
+     
+  }
+  ],
+
+  "thursday": [
+    {
+    "id": 1,
+    "time": "12.00 PM",
+    "startTime": "12:00",
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
+    
+  },
+  {
+    "id": 2,
+    "time": "3.00 PM",
+    "startTime": "15:00",
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "duration": 151,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
+    
+  },
+  {
+    "id": 3,
+    "time": "6.00 PM",
+    "startTime": "18:00",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
+    "duration": 128,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
+    
+  },
+  {
+    "id": 4,
+    "time": "9.00 PM",
+    "startTime": "21:00",
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "duration": 121,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
+    
+  },
+  {
+    "id": 5,
+    "time": "12.00 AM",
+    "startTime": "00:00",
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
+   
+  },
+  {
+    "id": 6,
+    "time": "3.00 AM",
+    "startTime": "03:00",
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "duration": 152,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
+     
+  }
+  ],
+
+  "friday": [
+    {
+    "id": 1,
+    "time": "12.00 PM",
+    "startTime": "12:00",
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
+    
+  },
+  {
+    "id": 2,
+    "time": "3.00 PM",
+    "startTime": "15:00",
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "duration": 151,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
+    
+  },
+  {
+    "id": 3,
+    "time": "6.00 PM",
+    "startTime": "18:00",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
+    "duration": 128,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
+    
+  },
+  {
+    "id": 4,
+    "time": "9.00 PM",
+    "startTime": "21:00",
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "duration": 121,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
+    
+  },
+  {
+    "id": 5,
+    "time": "12.00 AM",
+    "startTime": "00:00",
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
+   
+  },
+  {
+    "id": 6,
+    "time": "3.00 AM",
+    "startTime": "03:00",
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "duration": 152,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
+     
+  }
+  ],
+
+  "saturday": [
+    {
+    "id": 1,
+    "time": "12.00 PM",
+    "startTime": "12:00",
+    "name": "Golmal",
+    "cast": "Arshad Warsi, Ajay Devgan",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
+    
+  },
+  {
+    "id": 2,
+    "time": "3.00 PM",
+    "startTime": "15:00",
+    "name": "Dewane Huye Pagal",
+    "cast": "Akshay Kumar, Johny Liver",
+    "duration": 151,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyYzQ1MWYtYjVlYS00YWQwLWI3MTUtZTk5NGIxZGMzOTA4XkEyXkFqcGc@._V1_.jpg"
+    
+  },
+  {
+    "id": 3,
+    "time": "6.00 PM",
+    "startTime": "18:00",
+    "name": "Double Dhamal",
+    "cast": "Sanjay Dutt, Ritesh Deshmukh",
+    "duration": 128,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/971/552/5/movies-bollywood-movies-wallpaper-preview.jpg"
+    
+  },
+  {
+    "id": 4,
+    "time": "9.00 PM",
+    "startTime": "21:00",
+    "name": "Do Knot Disturb",
+    "cast": "Govinda",
+    "duration": 121,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://img.nowrunning.com/content/movie/2009/Do%20Knot%20Disturb/bg10.jpg"
+    
+  },
+  {
+    "id": 5,
+    "time": "12.00 AM",
+    "startTime": "00:00",
+    "name": "Besharam",
+    "cast": "Ranvir Kapoor",
+    "duration": 143,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://images.justwatch.com/backdrop/306584336/s640/besharam"
+   
+  },
+  {
+    "id": 6,
+    "time": "3.00 AM",
+    "startTime": "03:00",
+    "name": "Khatta Mitha",
+    "cast": "Akshay Kumar",
+    "duration": 152,
+    "url": "https://ia902304.us.archive.org/14/items/bolleyBall_bollywood/A.Gentleman.2017.1080p.mp4",
+    "poster": "https://i.ytimg.com/vi/fipkvZTGV24/sddefault.jpg"
+     
+  }
+  ],
+  
+}
