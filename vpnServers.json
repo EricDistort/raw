@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "server_name": "public-vpn-39.opengw.net",
+      "username": "vpn",
+      "password": "vpn"
+    },
+    {
+      "id": 2,
+      "server_name": "public-vpn-39.opengw.net",
+      "username": "vpn",
+      "password": "vpn"
+    }
+  ]
+}
