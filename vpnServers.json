@@ -2,5 +2,32 @@
   "banner": {
     "image": "https://wallpapers.oneindia.com/ph-1024x768/2012/11/135417866317334.jpg",
     "url": "https://duno.digital/"
-  }
+  },
+  "servers": [
+    {
+      "id": 1,
+      "address": "vpn-alpha.quberx.net",
+      "key": "A1B2C3D4E5F6"
+    },
+    {
+      "id": 2,
+      "address": "vpn-beta.quberx.net",
+      "key": "Z9Y8X7W6V5U4"
+    },
+    {
+      "id": 3,
+      "address": "vpn-gamma.quberx.net",
+      "key": "Q1W2E3R4T5Y6"
+    },
+    {
+      "id": 4,
+      "address": "vpn-delta.quberx.net",
+      "key": "M9N8B7V6C5X4"
+    },
+    {
+      "id": 5,
+      "address": "vpn-omega.quberx.net",
+      "key": "K3J2H1G4F5D6"
+    }
+  ]
 }
