@@ -9546,5 +9546,62 @@
     "CreatedDate":"04\/15\/2026",
     "TransactionHash":"0xf841a50130ff83f584fa4a207eb2c1da1e210519f22d951e8a6068561e6c546d",
     "Status":"Approved (USDT Deposit)"
+  },
+   {
+    "Sr.No.":869,
+    "Username":"SG1075627",
+    "Name":"UMESH  PANDIT ",
+    "Email":"umeshpandit8307@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0xDB6Eb87f06941097b2db55ac9DCA116BD4362622",
+    "CreatedDate":"03\/07\/2026",
+    "TransactionHash":"0x4bb39d4d0a2f0b82d58bbd661796bb9ba9adb854758125a8ec54cf89441c3ed0",
+    "Status":"Approved (USDT Deposit)"
+  },
+  {
+    "Sr.No.":870,
+    "Username":"SG3946125",
+    "Name":"ANAND RAJ",
+    "Email":"anandraj080509@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0x18D619899E5076abb792C4B602462174743eA2e1",
+    "CreatedDate":"03\/02\/2026",
+    "TransactionHash":"0x0ec3ab04f0efb53db6f27a9c711265ee8674a05f0d8f33aeaaba0b9f57c84167",
+    "Status":"Approved (USDT Deposit)"
+  },
+ {
+    "Sr.No.":871,
+    "Username":"SG8543919",
+    "Name":"Sudhir Kumar Patel",
+    "Email":"sudhirkumarpatel511@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0xab9aAD6488903F9a4C1936c275944464e09cc50e",
+    "CreatedDate":"02\/24\/2026",
+    "TransactionHash":"0xb6c696ee1a82634bcc671d38a36a52685ae22b16749768d363842d6522ffbea4",
+    "Status":"Approved (USDT Deposit)"
+  },
+{
+    "Sr.No.":872,
+    "Username":"SG2900558",
+    "Name":"Umashankar  Paswan ",
+    "Email":"sawankumar4915@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0x4417BB8abce141C99dc59d94b6B21Fc73b690273",
+    "CreatedDate":"03\/14\/2026",
+    "TransactionHash":"0x0279527c0dc6546867ee6f168b28a05690bd29e2293e35ad4351e04055c62991",
+    "Status":"Approved (USDT Deposit)"
+  },
+{
+    "Sr.No.":873,
+    "Username":"SG1011757",
+    "Name":"UMESH  PANDIT ",
+    "Email":"upandit8307@gmail.com",
+    "Amount":42.0,
+    "WalletAddress":"0x2A31b01956e853A7cF0C7feb203cBD04Be8D8972",
+    "CreatedDate":"03\/03\/2026",
+    "TransactionHash":"0xdae103690d0e6755ab4985fc5650a03845a6d80805de4d8d2f71a90abcfe2b72",
+    "Status":"Approved (USDT Deposit)"
   }
+
+
 ]
