@@ -9601,7 +9601,62 @@
     "CreatedDate":"03\/03\/2026",
     "TransactionHash":"0xdae103690d0e6755ab4985fc5650a03845a6d80805de4d8d2f71a90abcfe2b72",
     "Status":"Approved (USDT Deposit)"
-  }
+  },
 
+{
+    "Sr.No.":874,
+    "Username":"SG7207921",
+    "Name":"Sita Ram  Saini ",
+    "Email":"sitaramsaini2032@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0x2B8941efd7A973B84F4C196d1D9CB7C60F2E209a",
+    "CreatedDate":"03\/23\/2026",
+    "TransactionHash":"0xe2c237f4a93c9ee5cec387040b8129eef50a111c7f4225136d7f05d4009cf226",
+    "Status":"Approved (USDT Deposit)"
+  },
+{
+    "Sr.No.":875,
+    "Username":"SG651981",
+    "Name":"PURAN SINGH  PARIHAR",
+    "Email":"PURANPARIHAR235@GMAIL.COM",
+    "Amount":-100,
+    "WalletAddress":"0xaA5136e626d66c8ed252C9F068fd511d9d3D7761",
+    "CreatedDate":"01\/22\/2026",
+    "TransactionHash":"0x6f4ab7b25ac53860f6356b14d371db24501b94ed5aef0f65f1e3f35a6ba8b1d0",
+    "Status":"Approved (USDT Deposit)"
+  },
+{
+    "Sr.No.":876,
+    "Username":"SG4799087",
+    "Name":"MEENA KASHYAP ",
+    "Email":"kashyapmeena328@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0xd9138ce58eb1aCDbf0B417184235933e672C7A39",
+    "CreatedDate":"03\/29\/2026",
+    "TransactionHash":"0xad74d2410dedfc7aeeb93dd3bf270195a94ffed15526ebc8f9ed39389ad9c564",
+    "Status":"Approved (USDT Deposit)"
+  },
+{
+    "Sr.No.":877,
+    "Username":"SG5154632",
+    "Name":"VIKASH VANJAM",
+    "Email":"vikashvanjam617@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0x27a0f2Ad1a4D00bD7adfe9cce9D43389786bED22",
+    "CreatedDate":"03\/14\/2026",
+    "TransactionHash":"0x84a9d1462d2eca54ebdfc7613138da039f5b3e1f7bc49d9a01157d23209b055a",
+    "Status":"Approved (USDT Deposit)"
+  },
+{
+    "Sr.No.":878,
+    "Username":"SG5429083",
+    "Name":"MASU RAM MANDAVI",
+    "Email":"mrmandavi75@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0xe47E6ddda5E1E867159c6c9F9d12142ce9876554",
+    "CreatedDate":"03\/12\/2026",
+    "TransactionHash":"0x7922766bf0207364140a1b63f46a22a61261906e9dbfff494e2e0e0ec1464011",
+    "Status":"Approved (USDT Deposit)"
+  }
 
 ]
