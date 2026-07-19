@@ -10096,5 +10096,29 @@
     "CreatedDate":"03\/09\/2026",
   "TransactionHash":"$100 Id in BitAi as SantrX Refund",
     "Status":"Approved (USDT Deposit)"
+  },
+
+ {
+    "Sr.No.":917,
+    "Username":"SG651981",
+    "Name":"PURAN SINGH  PARIHAR",
+    "Email":"PURANPARIHAR235@GMAIL.COM",
+    "Amount":-100,
+    "WalletAddress":"0xB068143f1C1442955318c13ca6eB4264f94Fbe71",
+    "CreatedDate":"01\/22\/2026",
+"TransactionHash":"$100 Id in BitAi as SantrX Refund",
+    "Status":"Approved (USDT Deposit)"
+  },
+
+  {
+    "Sr.No.":918,
+    "Username":"SG2048531",
+    "Name":"Babulal  Roy",
+    "Email":"babulalroy372@gmail.com",
+    "Amount":-100,
+    "WalletAddress":"0xBc29DCA93B270d2922fCd8A50975c8eDF79b0B42",
+    "CreatedDate":"03\/14\/2026",
+    "TransactionHash":"0x063a626c4f8448b043296c67399ff0d67cce8ef0c7ac36887611957455a365c5",
+    "Status":"Approved (USDT Deposit)"
   }
 ]
